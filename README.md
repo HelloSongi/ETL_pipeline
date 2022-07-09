@@ -26,10 +26,18 @@ Once the transformation is fully done, i load that data into my companies databa
 
 
 #API Data fetched
+
 ![APIdata](https://user-images.githubusercontent.com/69304233/178113275-a2602b06-d6d0-4d93-8d27-f7613c8f9553.PNG)
 
+
+
+
 #UDATAED API DATA - REMOVED UNNECCESARY COLUMNS
+
 ![APIdataNeccesarycolumns](https://user-images.githubusercontent.com/69304233/178113294-3aade4c8-44fa-4950-a53d-310e92f1e8ea.PNG)
+
+
+
 
 
 #WEBSCRAPPED DATA
