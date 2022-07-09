@@ -32,9 +32,12 @@ Once the transformation is fully done, i load that data into my companies databa
 
 
 
-#UDATAED API DATA - REMOVED UNNECCESARY COLUMNS
+#UPDATED API DATA - REMOVED UNNECCESARY COLUMNS
 
 ![APIdataNeccesarycolumns](https://user-images.githubusercontent.com/69304233/178113294-3aade4c8-44fa-4950-a53d-310e92f1e8ea.PNG)
+
+
+
 
 
 
